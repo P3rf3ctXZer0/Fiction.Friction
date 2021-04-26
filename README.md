@@ -11,13 +11,13 @@
 
 ![enter image description here](https://i.imgur.com/tHGfaoN.png)
 
-Java Version - Java 8 Latest = https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=hotspot
+![](https://i.imgur.com/b8OArlU.png) Java Version - Java 8 Latest = https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=hotspot
 
-Minimum Memory Allocation - 5.0GB (7.0GB)
+![](https://i.imgur.com/b8OArlU.png) Minimum Memory Allocation - 5.0GB (7.0GB)
 
-Minimum CPU 2 Cores 4 Threads - 3.2GHZ
+![](https://i.imgur.com/b8OArlU.png) Minimum CPU 2 Cores 4 Threads - 3.2GHZ
 
-Minimum GPU NVIDIA 750 GTX - Equivalent or Higher.
+![](https://i.imgur.com/b8OArlU.png) Minimum GPU NVIDIA 750 GTX - Equivalent or Higher.
 
 ![enter image description here](https://i.imgur.com/mKieznA.png) **Current or Planned Features**
 
