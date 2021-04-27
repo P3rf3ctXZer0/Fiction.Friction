@@ -28,7 +28,7 @@
 
 ![](https://i.imgur.com/b8OArlU.png) **Automatable** = Almost everything in the pack can be automated. Make resources and recipes with ease.
 
-![](https://i.imgur.com/b8OArlU.png) **Build with Ease** = Want to make amazingly larg structures very fast? Looking for slopes and other wonderful shapes? Can't quiet find the shape you are looking for? If you said yes to any of these; you won't be disappointed.
+![](https://i.imgur.com/b8OArlU.png) **Build with Ease** = Want to make amazingly large structures very fast? Looking for slopes and other wonderful shapes? Can't quiet find the shape you are looking for? If you said yes to any of these; you won't be disappointed.
 
 ![](https://i.imgur.com/b8OArlU.png) **Lots to Explore** = Biomes, Creatures, and Dungeons a plenty. I couldn't stand the barren feel of vanilla. I even found a mod that adds all the caves and cliffs update stuff.
 
@@ -62,4 +62,4 @@
 
 ![enter image description here](https://i.imgur.com/tHGfaoN.png)
 
-*It might not seem like I can make a great pack because I cannot code but honestly I can. I am very good at detecting and squashing bugs. I really just want the perfect Minecraft experience for myself. I also want others to have a good time as well. I really love the creativity minecraft allows us to have and even though I am not a world class builder or even that smart I don't let either of those factors stop me from expressing myself. I play for fun and also to enjoy expirementing with different mekanisms. I do plan on adding Pixelmon whenever it is updated. Unfortnately right now it is trapped on 1.12.2 Also most of the art is not mine or heavily edited I am not artistic; I try though.*
+*It might not seem like I can make a great pack because I cannot code but honestly I can. I am very good at detecting and squashing bugs. I really just want the perfect Minecraft experience for myself. I also want others to have a good time as well. I really love the creativity Minecraft allows us to have and even though I am not a world class builder or even that smart I don't let either of those factors stop me from expressing myself. I play for fun and also to enjoy expirementing with different mekanisms. I do plan on adding Pixelmon whenever it is updated. Unfortnately right now it is trapped on 1.12.2 Also most of the art is not mine or heavily edited I am not artistic; I try though.*
