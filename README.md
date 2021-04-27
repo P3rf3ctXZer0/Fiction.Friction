@@ -1,11 +1,15 @@
 
 ![Fiction Friction](https://i.imgur.com/0yJBr1V.png)
 
+![enter image description here](https://i.imgur.com/tHGfaoN.png)
+
 ![enter image description here](https://i.imgur.com/9uyo9Jn.png) **Introduction**
 
 ![enter image description here](https://i.imgur.com/tHGfaoN.png)
 
 *Welcome to Fiction Friction a world created by you. This is a mod pack that will almost always be using the latest version of Forge as well as Minecraft as a base. I am hoping that this project will be my final title as it allows me the flexibility to make whatever I desire. I have gone many days thinking that I could maintain multiple projects only to get creatively burnt out. This is my magnum opus and I truly hope you enjoy your time here. I would like to make it clear in advance none of my packs are meant to be played on single player. If you choose to do so; I only ask you accept the consequence because performance is not optimized for it.*
+
+![enter image description here](https://i.imgur.com/tHGfaoN.png)
 
 ![enter image description here](https://i.imgur.com/QgaM1NX.png) **Computer Specifications and Links**
 
@@ -23,12 +27,13 @@
 
 ![](https://i.imgur.com/b8OArlU.png) Minimum GPU NVIDIA 750 GTX - Equivalent or Higher.
 
-![enter image description here](https://i.imgur.com/egHaIoq.png)
+![enter image description here](https://i.imgur.com/tHGfaoN.png)
 
 ![enter image description here](https://i.imgur.com/mKieznA.png) **Current or Planned Features**
 
 ![enter image description here](https://i.imgur.com/tHGfaoN.png)
 
+![enter image description here](https://i.imgur.com/egHaIoq.png)
 
 ![](https://i.imgur.com/b8OArlU.png) **Automatable** = Almost everything in the pack can be automated. Make resources and recipes with ease.
 
@@ -58,11 +63,15 @@
 
 ![enter image description here](https://i.imgur.com/aEeBX9H.png)
 
+![enter image description here](https://i.imgur.com/tHGfaoN.png)
+
 ![enter image description here](https://i.imgur.com/dcd8E4X.png) **Recommended Java Arguments**
 
 ![enter image description here](https://i.imgur.com/tHGfaoN.png)
 
 -> -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -Dusing.aikars.flags=https://mcflags.emc.gs -Daikars.new.flags=true -Dfml.ignorePatchDiscrepancies=true -Dfml.ignoreInvalidMinecraftCertificates=true -Xms512m <-
+
+![enter image description here](https://i.imgur.com/tHGfaoN.png)
 
 ![enter image description here](https://i.imgur.com/RhO3lP8.png) **Final Thoughts**
 
