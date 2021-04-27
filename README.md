@@ -7,9 +7,11 @@
 
 *Welcome to Fiction Friction a world created by you. This is a mod pack that will use the latest version of forge as well as Minecraft as a base. I am hoping that this project will be my final title as it allows me the flexibility to make whatever I desire. I have gone many days thinking that I could maintain multiple projects only to get creatively burnt out. This is my magnum opus and I truly hope you enjoy your time here. I would like to make it clear in advance none of my packs are meant to be played in single player. You can still do so but if you suffer performance issues due to not being the optimized server I only ask you accept the consequence*
 
-![enter image description here](https://i.imgur.com/QgaM1NX.png) **Computer Specifications**
+![enter image description here](https://i.imgur.com/QgaM1NX.png) **Computer Specifications and Links**
 
 ![enter image description here](https://i.imgur.com/tHGfaoN.png)
+
+![](https://i.imgur.com/b8OArlU.png) Full Releases - https://github.com/P3rf3ctXZer0/Fiction.Friction/releases
 
 ![](https://i.imgur.com/b8OArlU.png) Java Version - Java 8 Latest = https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=hotspot
 
