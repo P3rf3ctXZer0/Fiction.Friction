@@ -7,4 +7,14 @@ assignees: P3rf3ctXZer0
 
 ---
 
+Warning; if you do not provide me the information I request I will simply delete the issue. Not reading this does not excuse you.
 
+> Problem and ways to produce it
+
+
+
+> log.txt and crash.txt if it applies
+
+
+
+> Screenshots if it applies
