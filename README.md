@@ -17,7 +17,9 @@
 
 ![](https://i.imgur.com/b8OArlU.png) Full Releases - https://github.com/P3rf3ctXZer0/Fiction.Friction/releases
 
-![](https://i.imgur.com/b8OArlU.png) Launcher Recommendation - https://atlauncher.com/downloads
+![](https://i.imgur.com/b8OArlU.png) Launcher Recommendation - https://atlauncher.com/downloads or https://multimc.org/
+
+![](https://i.imgur.com/b8OArlU.png) Custom Datapack For Worlds - https://www.dropbox.com/sh/4tnoeitvijpjwfo/AACfZbVp_foEQLeQEVdBBNP1a?dl=0
 
 ![](https://i.imgur.com/b8OArlU.png) Java Version, Java 8 Latest - https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=hotspot
 
