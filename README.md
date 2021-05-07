@@ -23,7 +23,7 @@
 
 ![](https://i.imgur.com/b8OArlU.png) Java Version, Java 8 Latest - https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=hotspot
 
-![](https://i.imgur.com/b8OArlU.png) Minimum Memory Allocation - 5.0GB (7.0GB)
+![](https://i.imgur.com/b8OArlU.png) Minimum Memory Allocation - 5.5GB (7.5GB)
 
 ![](https://i.imgur.com/b8OArlU.png) Minimum CPU 2 Cores 4 Threads - 3.2GHZ
 
@@ -53,7 +53,7 @@
 
 ![](https://i.imgur.com/b8OArlU.png) **Open to Suggestions** = I am open to ideas and suggestions. Just make an issue titled "Mod Suggestion - Modname" and in the description box just add the reason why it is needed. I am going to try and avoid duplicate or overlapping mods. Sometimes you just have to learn something new.
 
-![](https://i.imgur.com/b8OArlU.png) **Pokemobs** = Currently since Pixelmon is not actually updated I have Pokecube because I love Mons. I do have pokecube in the meantime. They act more like vanilla mobs though because the dev refuses to get closer to the source material.
+![](https://i.imgur.com/b8OArlU.png) **Pokemobs** = Currently since Pixelmon is not actually updated I have Pokecube because I love Mons. I do have pokecube in the meantime. They act more like vanilla mobs though because the dev refuses to get closer to the source material. (The 1.12.2 pack has Pixelmon)
 
 ![](https://i.imgur.com/b8OArlU.png) **Renewable Resources** = My packs all have something very wonderful in common you don't always need to travel the universe to find what you are looking for. Just get 4 of any item in most cases and a lot of Infernium.
 
