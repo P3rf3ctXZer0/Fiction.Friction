@@ -19,7 +19,7 @@
 
 ![](https://i.imgur.com/b8OArlU.png) Launcher Recommendation - https://atlauncher.com/downloads or https://multimc.org/
 
-![](https://i.imgur.com/b8OArlU.png) Custom Datapack for Worlds - https://www.dropbox.com/sh/4tnoeitvijpjwfo/AACfZbVp_foEQLeQEVdBBNP1a?dl=0
+![](https://i.imgur.com/b8OArlU.png) Custom Datapack for Worlds 1.16.5 - https://www.dropbox.com/sh/4tnoeitvijpjwfo/AACfZbVp_foEQLeQEVdBBNP1a?dl=0
 
 ![](https://i.imgur.com/b8OArlU.png) Java Version, Java 8 Latest - https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=hotspot
 
@@ -79,7 +79,9 @@
 
 ![enter image description here](https://i.imgur.com/tHGfaoN.png)
 
-*It might not seem like I can make a great pack because I cannot code but honestly I can. I am very good at detecting and squashing bugs. I really just want the perfect Minecraft experience for myself. I also want others to have a good time as well. I really love the creativity Minecraft allows us to have and even though I am not a world class builder or even that smart I don't let either of those factors stop me from expressing myself. I play for fun and also to enjoy expirementing with different mekanisms. I do plan on adding Pixelmon whenever it is updated. Unfortnately right now it is trapped on 1.12.2 Also most of the art is not mine or heavily edited I am not artistic; I try though. I really hope you enjoy your time here. Thank you for reading.*
+*It might not seem like I can make a great pack because I cannot code but honestly I can. I am very good at detecting and squashing bugs. I really just want the perfect Minecraft experience for myself. I did not code a single mod and even the resource packs are edits by me. I would like to give credit and thanks to all the people who make mods public because without you this wouldn't even be possible.*
+
+*I really love the creativity Minecraft allows us to have and even though I am not a world class builder or even that smart I don't let either of those factors stop me from expressing myself. I play for fun and also to enjoy expirementing with different mekanisms. I do plan on adding Pixelmon whenever it is updated. Unfortnately right now it is trapped on 1.12.2 Also most of the art is not mine or heavily edited I am not artistic; I try though. I really hope you enjoy your time here. Thank you for reading.*
 
 ![enter image description here](https://i.imgur.com/tHGfaoN.png)
 
