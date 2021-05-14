@@ -23,7 +23,7 @@
 
 ![](https://i.imgur.com/b8OArlU.png) Java Version, Java 8 Latest - https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=hotspot
 
-![](https://i.imgur.com/b8OArlU.png) Minimum Memory Allocation - 5.5GB (7.5GB)
+![](https://i.imgur.com/b8OArlU.png) Minimum Memory Allocation - 6.5GB (8.5GB) 16GB recommended minimum on OS.
 
 ![](https://i.imgur.com/b8OArlU.png) Minimum CPU 2 Cores 4 Threads - 3.2GHZ
 
@@ -41,11 +41,13 @@
 
 ![](https://i.imgur.com/b8OArlU.png) **Build with Ease** = Want to make amazingly large structures very fast? Looking for slopes and other wonderful shapes? Can't quiet find the shape you are looking for? If you said yes to any of these; you won't be disappointed.
 
+![](https://i.imgur.com/b8OArlU.png) **Land Claim** = Claim up to 2000 chunks or have 2000 chunks loaded when you are online only.
+
 ![](https://i.imgur.com/b8OArlU.png) **Limited Only by Your Imagination** = I am going to do what I can to make this a truly sandbox experience. I can't promise you can do anything but I can promise as along as you have a clear goal you should be able to reach it. If I missed something important suggest it.
 
 ![](https://i.imgur.com/b8OArlU.png) **Lots to Explore** = Biomes, Creatures, and Dungeons a plenty. I couldn't stand the barren feel of vanilla. I even found a mod that adds almost all the caves and cliffs update stuff. I wanted the world to feel like an experience and not a path.
 
-![](https://i.imgur.com/b8OArlU.png) **Inventory Management** = Sort and shuffle inventory easily. Combine your inventory with the "Refined Storage System" and have a wonderful way to do so much.
+![](https://i.imgur.com/b8OArlU.png) **Inventory Management** = Sort and shuffle inventory easily. Combine your inventory with the "Refined Storage System" and have a wonderful way to do so much. Also enjoy the limitless storage of the project storage mod.
 
 ![](https://i.imgur.com/b8OArlU.png) **Magic Based** = I really enjoy complex spells that do cool and unique things. I am not very familiar with the magic mod scene admittedly so feel free to give suggestions. Just follow the posting rules.
 
@@ -53,15 +55,15 @@
 
 ![](https://i.imgur.com/b8OArlU.png) **Open to Suggestions** = I am open to ideas and suggestions. Just make an issue titled "Mod Suggestion - Modname" and in the description box just add the reason why it is needed. I am going to try and avoid duplicate or overlapping mods. Sometimes you just have to learn something new.
 
-![](https://i.imgur.com/b8OArlU.png) **Pokemobs** = Currently since Pixelmon is not actually updated I have Pokecube because I love Mons. I do have pokecube in the meantime. They act more like vanilla mobs though because the dev refuses to get closer to the source material. (The 1.12.2 pack has Pixelmon)
+![](https://i.imgur.com/b8OArlU.png) **Pokemobs** = Currently since Pixelmon is not actually updated I have Pokecube because I love Mons. I do have pokecube in the meantime. They act more like vanilla mobs though because the dev refuses to get closer to the source material. (The 1.12.2 pack has Pixelmon) It is actually part of the core. It supports multiple addons including apricorn trees, gameshark, plantable apricorns pixelmon info and wondertrade. Also meltan is 64 block chance with 0.4 chance of a ditto. Starters start at 15 with a x4 exp boost and all lures last a lot longer.
 
 ![](https://i.imgur.com/b8OArlU.png) **Renewable Resources** = My packs all have something very wonderful in common you don't always need to travel the universe to find what you are looking for. Just get 4 of any item in most cases and a lot of Infernium.
 
-![](https://i.imgur.com/b8OArlU.png) **Scaling Difficulty** = As you play the game it will both get easier and harder. Difficulty is very dynamic.
+![](https://i.imgur.com/b8OArlU.png) **Scaling Difficulty** = As you play the game it will both get easier and harder. Difficulty is very dynamic. Watch out for champions they each also pack their own kind of punch.
 
 ![](https://i.imgur.com/b8OArlU.png) **Semi-Realistic** = Eat foods gain health. Eat the same food too much and gain nothing.
 
-![](https://i.imgur.com/b8OArlU.png) **Technological** = This modpack is chalked full of wonderful tech mods.
+![](https://i.imgur.com/b8OArlU.png) **Technological** = This modpack is chalked full of wonderful tech mods. Thanks to the PUBGMC mod we actually have fully fleshed out working guns that works suprisingly well. I honestly never thought I would find a stable and amazing gun mod for 1.12.2.
 
 ![enter image description here](https://i.imgur.com/aEeBX9H.png)
 
@@ -82,6 +84,8 @@
 *It might not seem like I can make a great pack because I cannot code but honestly I can. I am very good at detecting and squashing bugs. I really just want the perfect Minecraft experience for myself. I did not code a single mod and even the resource packs are edits by me. I would like to give credit and thanks to all the people who make mods public because without you this wouldn't even be possible.*
 
 *I really love the creativity Minecraft allows us to have and even though I am not a world class builder or even that smart I don't let either of those factors stop me from expressing myself. I play for fun and also to enjoy expirementing with different mekanisms. I do plan on adding Pixelmon whenever it is updated. Unfortnately right now it is trapped on 1.12.2 Also most of the art is not mine or heavily edited I am not artistic; I try though. I really hope you enjoy your time here. Thank you for reading.*
+
+*The 1.12.2 pack is feature complete and will be maintained as long as possible.*
 
 ![enter image description here](https://i.imgur.com/tHGfaoN.png)
 
