@@ -63,7 +63,7 @@
 
 ![](https://i.imgur.com/b8OArlU.png) **Semi-Realistic** = Eat foods gain health. Eat the same food too much and gain nothing.
 
-![](https://i.imgur.com/b8OArlU.png) **Technological** = This modpack is chalked full of wonderful tech mods. Thanks to the PUBGMC mod we actually have fully fleshed out working guns that works suprisingly well. I honestly never thought I would find a stable and amazing gun mod for 1.12.2.
+![](https://i.imgur.com/b8OArlU.png) **Technological** = This modpack is chalked full of wonderful tech mods. Thanks to the PUBGMC mod we actually have fully fleshed out working guns that work suprisingly well. I honestly never thought I would find a stable and amazing gun mod for 1.12.2.
 
 ![enter image description here](https://i.imgur.com/aEeBX9H.png)
 
@@ -93,4 +93,4 @@
 
 ![](https://i.imgur.com/b8OArlU.png) https://www.dropbox.com/sh/ucb63r04ac3lk99/AAAoi-E3lvYrCk3-brSE0i_ka?dl=0
 
-*just make sure you grabe the version you want to use.*
+*just make sure you grab the version you want to use.*
