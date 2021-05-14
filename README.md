@@ -7,7 +7,9 @@
 
 ![enter image description here](https://i.imgur.com/tHGfaoN.png)
 
-*Welcome to Fiction Friction a world created by you. This is a mod pack that will almost always be using the latest version of Forge as well as Minecraft as a base. I am hoping that this project will be my final title as it allows me the flexibility to make whatever I desire. I have gone many days thinking that I could maintain multiple projects only to get creatively burnt out. This is my magnum opus and I truly hope you enjoy your time here. I would like to make it clear in advance none of my packs are meant to be played on single player. If you choose to do so; I only ask you accept the consequence because performance is not optimized for it.*
+*Welcome to Fiction Friction a world created by you. This is a mod pack that will almost always be using the latest version of Forge as well as Minecraft as a base. I am hoping that this project will be my final title as it allows me the flexibility to make whatever I desire. I have gone many days thinking that I could maintain multiple projects only to get creatively burnt out. This is my magnum opus and I truly hope you enjoy your time here.*
+
+*I would like to say thank you to all the skilled coders that allowed this to even be possible. Thank you so much. As a reminder I do not own a single mod as I am unable to code due to mental challenges with mathmatical processing.*
 
 ![enter image description here](https://i.imgur.com/tHGfaoN.png)
 
