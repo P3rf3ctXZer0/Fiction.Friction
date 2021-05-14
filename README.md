@@ -25,7 +25,7 @@
 
 ![](https://i.imgur.com/b8OArlU.png) Java Version, Java 8 Latest - https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=hotspot
 
-![](https://i.imgur.com/b8OArlU.png) Minimum Memory Allocation - 6.5GB (8.5GB) 16GB recommended minimum on OS.
+![](https://i.imgur.com/b8OArlU.png) Minimum Memory Allocation - 5.5GB (7.5GB) 12GB recommended minimum on OS.
 
 ![](https://i.imgur.com/b8OArlU.png) Minimum CPU 2 Cores 4 Threads - 3.2GHZ
 
