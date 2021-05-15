@@ -17,6 +17,8 @@
 
 ![enter image description here](https://i.imgur.com/tHGfaoN.png)
 
+![](https://i.imgur.com/b8OArlU.png) Fiction Friction Official Discord - https://discord.gg/hjJ7Mge8ej
+
 ![](https://i.imgur.com/b8OArlU.png) Full Releases - https://github.com/P3rf3ctXZer0/Fiction.Friction/releases
 
 ![](https://i.imgur.com/b8OArlU.png) Launcher Recommendation - https://atlauncher.com/downloads or https://multimc.org/
