@@ -31,7 +31,7 @@
 
 ![](https://i.imgur.com/b8OArlU.png) Minimum CPU 2 Cores 4 Threads - 3.2GHZ
 
-![](https://i.imgur.com/b8OArlU.png) Minimum GPU NVIDIA 750 GTX - Equivalent or Higher.
+![](https://i.imgur.com/b8OArlU.png) Minimum GPU NVIDIA GTX550ti  - Equivalent or Higher.
 
 ![enter image description here](https://i.imgur.com/tHGfaoN.png)
 
