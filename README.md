@@ -27,11 +27,19 @@
 
 ![](https://i.imgur.com/b8OArlU.png) Java Version, Java 8 Latest - https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=hotspot
 
-![](https://i.imgur.com/b8OArlU.png) Minimum Memory Allocation - 5.5GB (7.5GB) 12GB recommended minimum on OS.
+![](https://i.imgur.com/b8OArlU.png) Minimum Memory Allocation - 6.5GB (8.5GB) 14GB recommended minimum on OS.
 
 ![](https://i.imgur.com/b8OArlU.png) Minimum CPU 2 Cores 4 Threads - 3.2GHZ
 
 ![](https://i.imgur.com/b8OArlU.png) Minimum GPU NVIDIA GTX550ti  - Equivalent or Higher.
+
+![](https://i.imgur.com/b8OArlU.png) Optimal Settings
+
+![Nvidea part 1](https://i.imgur.com/tj7nnpJ.png)
+
+![Nvidea Part 2](https://i.imgur.com/yHSxl3d.png)
+
+![Nvidea Part 3](https://i.imgur.com/BRiRcg2.png)
 
 ![enter image description here](https://i.imgur.com/tHGfaoN.png)
 
