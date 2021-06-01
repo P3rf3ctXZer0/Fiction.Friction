@@ -107,10 +107,12 @@
 
 *just make sure you grab the version you want to use.*
 
-# Actively Supporting Development
+![enter image description here](https://i.imgur.com/tHGfaoN.png)
+
+Actively Supporting Development
 
 ![Bisect Hosting](https://media.discordapp.net/attachments/701616152266407998/779578734087766016/vertical_dark_text.png?width=1442&height=469 "Bisect Hosting")
 
-![enter image description here](https://i.imgur.com/tHGfaoN.png) We are now proudly supported by "Bisect Hosting" If you are looking for a stable and easy to understand server host with prompt and effective support for all your server related problems. Please consider giving them a try as I have been using them off and on since 2017 and I have to say compared to the competitors; they are bar none one of the best hosts out there. Lag-less and dedicated to performance their servers are fast and reliable. 
+![](https://i.imgur.com/b8OArlU.png) We are now proudly supported by "Bisect Hosting" If you are looking for a stable and easy to understand server host with prompt and effective support for all your server related problems. Please consider giving them a try as I have been using them off and on since 2017 and I have to say compared to the competitors; they are bar none one of the best hosts out there. Lag-less and dedicated to performance their servers are fast and reliable. 
 
-![enter image description here](https://i.imgur.com/tHGfaoN.png) Use promo code **"Zer0G"** for 25% off the service fee for the first month. I recommend most people use a "4GB" package but you can also buy more or less if you need it. Also, it helps support this and other future projects I release. ~ xWingedTenacityx#7693
+![](https://i.imgur.com/b8OArlU.png) Use promo code **"Zer0G"** for 25% off the service fee for the first month. I recommend most people use a "4GB" package but you can also buy more or less if you need it. Also, it helps support this and other future projects I release. ~ xWingedTenacityx#7693
