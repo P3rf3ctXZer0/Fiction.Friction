@@ -17,9 +17,9 @@
 
 ![enter image description here](https://i.imgur.com/tHGfaoN.png)
 
-![](https://i.imgur.com/b8OArlU.png) Fiction Friction Official Discord - https://discord.gg/hjJ7Mge8ej
+![](https://i.imgur.com/b8OArlU.png) Fiction Friction Official Discord - https://discord.gg/hjJ7Mge8ej (1.12.2)
 
-![](https://i.imgur.com/b8OArlU.png) Full Releases - https://github.com/P3rf3ctXZer0/Fiction.Friction/releases
+![](https://i.imgur.com/b8OArlU.png) Full Releases - https://github.com/P3rf3ctXZer0/Fiction.Friction/releases (1.16.5)
 
 ![](https://i.imgur.com/b8OArlU.png) Launcher Recommendation - https://atlauncher.com/downloads or https://multimc.org/
 
@@ -27,7 +27,7 @@
 
 ![](https://i.imgur.com/b8OArlU.png) Java Version, Java 8 Latest - https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=hotspot
 
-![](https://i.imgur.com/b8OArlU.png) Minimum Memory Allocation - 6.5GB (8.5GB) 14GB recommended minimum on OS.
+![](https://i.imgur.com/b8OArlU.png) Minimum Memory Allocation - 5.5GB (7.5GB) 12GB recommended minimum on OS. 
 
 ![](https://i.imgur.com/b8OArlU.png) Minimum CPU 2 Cores 4 Threads - 3.2GHZ
 
@@ -49,39 +49,39 @@
 
 ![enter image description here](https://i.imgur.com/egHaIoq.png)
 
-![](https://i.imgur.com/b8OArlU.png) **Automatable** = Almost everything in the pack can be automated. Make resources and recipes with ease.
+![](https://i.imgur.com/b8OArlU.png) **Automatable** = Almost everything in the pack can be automated. Make resources and recipes with ease. (1.12.2 and 1.16.5)
 
-![](https://i.imgur.com/b8OArlU.png) **Build with Ease** = Want to make amazingly large structures very fast? Looking for slopes and other wonderful shapes? Can't quiet find the shape you are looking for? If you said yes to any of these; you won't be disappointed.
+![](https://i.imgur.com/b8OArlU.png) **Build with Ease** = Want to make amazingly large structures very fast? Looking for slopes and other wonderful shapes? Can't quiet find the shape you are looking for? If you said yes to any of these; you won't be disappointed. (1.12.2 and 1.16.5)
 
-![](https://i.imgur.com/b8OArlU.png) **Land Claim** = Claim up to 2000 chunks or have 2000 chunks loaded when you are online only.
+![](https://i.imgur.com/b8OArlU.png) **Land Claim** = Claim up to 2000 chunks or have 2000 chunks loaded when you are online only. (1.12.2 and 1.16.5)
 
-![](https://i.imgur.com/b8OArlU.png) **Limited Only by Your Imagination** = I am going to do what I can to make this a truly sandbox experience. I can't promise you can do anything but I can promise as along as you have a clear goal you should be able to reach it. If I missed something important suggest it.
+![](https://i.imgur.com/b8OArlU.png) **Limited Only by Your Imagination** = I am going to do what I can to make this a truly sandbox experience. I can't promise you can do anything but I can promise as along as you have a clear goal you should be able to reach it. If I missed something important suggest it. (1.12.2 and 1.16.5)
 
-![](https://i.imgur.com/b8OArlU.png) **Lots to Explore** = Biomes, Creatures, and Dungeons a plenty. I couldn't stand the barren feel of vanilla. I even found a mod that adds almost all the caves and cliffs update stuff. I wanted the world to feel like an experience and not a path.
+![](https://i.imgur.com/b8OArlU.png) **Lots to Explore** = Biomes, Creatures, and Dungeons a plenty. I couldn't stand the barren feel of vanilla. I even found a mod that adds almost all the caves and cliffs update stuff. I wanted the world to feel like an experience and not a path. (1.12.2 and 1.16.5)
 
-![](https://i.imgur.com/b8OArlU.png) **Inventory Management** = Sort and shuffle inventory easily. Combine your inventory with the "Refined Storage System" and have a wonderful way to do so much. Also enjoy the limitless storage of the project storage mod.
+![](https://i.imgur.com/b8OArlU.png) **Inventory Management** = Sort and shuffle inventory easily. Combine your inventory with the "Refined Storage System" and have a wonderful way to do so much. Also enjoy the limitless storage of the project storage mod. (1.12.2 and 1.16.5)
 
-![](https://i.imgur.com/b8OArlU.png) **Magic Based** = I really enjoy complex spells that do cool and unique things. I am not very familiar with the magic mod scene admittedly so feel free to give suggestions. Just follow the posting rules.
+![](https://i.imgur.com/b8OArlU.png) **Magic Based** = I really enjoy complex spells that do cool and unique things. I am not very familiar with the magic mod scene admittedly so feel free to give suggestions. Just follow the posting rules. (1.12.2 and 1.16.5)
 
-![](https://i.imgur.com/b8OArlU.png) **Multiplayer Ready** = Inside the pack is a server file. You don't have to ask where the server is because it is included. I also like to make sure the server as a whole does not collapse under its own weight. You probably won't find a fancy spawn and this intended. I want the players to make what they feel the world should be. This is not uniform or professional.
+![](https://i.imgur.com/b8OArlU.png) **Multiplayer Ready** = Inside the pack is a server file. You don't have to ask where the server is because it is included. I also like to make sure the server as a whole does not collapse under its own weight. You probably won't find a fancy spawn and this intended. I want the players to make what they feel the world should be. This is not uniform or professional. (1.12.2)
 
-![](https://i.imgur.com/b8OArlU.png) **Open to Suggestions** = I am open to ideas and suggestions. Just make an issue titled "Mod Suggestion - Modname" and in the description box just add the reason why it is needed. I am going to try and avoid duplicate or overlapping mods. Sometimes you just have to learn something new.
+![](https://i.imgur.com/b8OArlU.png) **Open to Suggestions** = I am open to ideas and suggestions. Just make an issue titled "Mod Suggestion - Modname" and in the description box just add the reason why it is needed. I am going to try and avoid duplicate or overlapping mods. Sometimes you just have to learn something new. (1.16.5)
 
-![](https://i.imgur.com/b8OArlU.png) **Pokemobs** = Currently since Pixelmon is not actually updated I have Pokecube because I love Mons. I do have pokecube in the meantime. They act more like vanilla mobs though because the dev refuses to get closer to the source material. (The 1.12.2 pack has Pixelmon) It is actually part of the core. It supports multiple addons including apricorn trees, gameshark, plantable apricorns pixelmon info and wondertrade. Also meltan is 64 block chance with 0.4 chance of a ditto. Starters start at 15 with a x4 exp boost and all lures last a lot longer.
+![](https://i.imgur.com/b8OArlU.png) **Pokemobs** = Currently since Pixelmon is not actually updated I have Pokecube because I love Mons. I do have pokecube in the meantime. They act more like vanilla mobs though because the dev refuses to get closer to the source material. (The 1.12.2 pack has Pixelmon) It is actually part of the core. It supports multiple addons including apricorn trees, gameshark, plantable apricorns pixelmon info and wondertrade. Also meltan is 64 block chance with 0.4 chance of a ditto. Starters start at 15 with a x4 exp boost and all lures last a lot longer. (1.12.2)
 
-![](https://i.imgur.com/b8OArlU.png) **Renewable Resources** = My packs all have something very wonderful in common you don't always need to travel the universe to find what you are looking for. Just get 4 of any item in most cases and a lot of Infernium.
+![](https://i.imgur.com/b8OArlU.png) **Renewable Resources** = My packs all have something very wonderful in common you don't always need to travel the universe to find what you are looking for. Just get 4 of any item in most cases and a lot of Infernium. (1.12.2 and 1.16.5)
 
-![](https://i.imgur.com/b8OArlU.png) **Scaling Difficulty** = As you play the game it will both get easier and harder. Difficulty is very dynamic. Watch out for champions they each also pack their own kind of punch.
+![](https://i.imgur.com/b8OArlU.png) **Scaling Difficulty** = As you play the game it will both get easier and harder. Difficulty is very dynamic. Watch out for champions they each also pack their own kind of punch. (1.12.2 and 1.16.5)
 
-![](https://i.imgur.com/b8OArlU.png) **Semi-Realistic** = Eat foods gain health. Eat the same food too much and gain nothing.
+![](https://i.imgur.com/b8OArlU.png) **Semi-Realistic** = Eat foods gain health. Eat the same food too much and gain nothing. (1.12.2)
 
-![](https://i.imgur.com/b8OArlU.png) **Technological** = This modpack is chalked full of wonderful tech mods. Thanks to the PUBGMC mod we actually have fully fleshed out working guns that work suprisingly well. I honestly never thought I would find a stable and amazing gun mod for 1.12.2.
+![](https://i.imgur.com/b8OArlU.png) **Technological** = This modpack is chalked full of wonderful tech mods. (1.12.2 and 1.16.5)
 
 ![enter image description here](https://i.imgur.com/aEeBX9H.png)
 
 ![enter image description here](https://i.imgur.com/tHGfaoN.png)
 
-![enter image description here](https://i.imgur.com/dcd8E4X.png) **Recommended Java Arguments**
+![enter image description here](https://i.imgur.com/dcd8E4X.png) **Recommended Java Arguments** (1.12.2 and 1.16.5)
 
 ![enter image description here](https://i.imgur.com/tHGfaoN.png)
 
@@ -109,7 +109,7 @@
 
 ![enter image description here](https://i.imgur.com/tHGfaoN.png)
 
-Actively Supporting Development
+Actively Supporting Development (1.12.2)
 
 ![Bisect Hosting](https://media.discordapp.net/attachments/701616152266407998/779578734087766016/vertical_dark_text.png?width=1442&height=469 "Bisect Hosting")
 
