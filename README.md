@@ -49,11 +49,15 @@
 
 ![enter image description here](https://i.imgur.com/egHaIoq.png)
 
+![](https://i.imgur.com/b8OArlU.png) **Anticheat** = Through the power of the mod Watchdog we can enforce some anticheat including preventing x-ray. (1.12.2 and 1.16.5)
+
 ![](https://i.imgur.com/b8OArlU.png) **Automatable** = Almost everything in the pack can be automated. Make resources and recipes with ease. (1.12.2 and 1.16.5)
 
 ![](https://i.imgur.com/b8OArlU.png) **Build with Ease** = Want to make amazingly large structures very fast? Looking for slopes and other wonderful shapes? Can't quiet find the shape you are looking for? If you said yes to any of these; you won't be disappointed. (1.12.2 and 1.16.5)
 
 ![](https://i.imgur.com/b8OArlU.png) **Land Claim** = Claim up to 2000 chunks or have 2000 chunks loaded when you are online only. (1.12.2 and 1.16.5)
+
+![](https://i.imgur.com/b8OArlU.png) **Large Scale Batteries** = Through the power of Extreme Reactors you can create rf very quickly.
 
 ![](https://i.imgur.com/b8OArlU.png) **Limited Only by Your Imagination** = I am going to do what I can to make this a truly sandbox experience. I can't promise you can do anything but I can promise as along as you have a clear goal you should be able to reach it. If I missed something important suggest it. (1.12.2 and 1.16.5)
 
@@ -69,11 +73,15 @@
 
 ![](https://i.imgur.com/b8OArlU.png) **Pokemobs** = Currently since Pixelmon is not actually updated I have Pokecube because I love Mons. I do have pokecube in the meantime. They act more like vanilla mobs though because the dev refuses to get closer to the source material. (The 1.12.2 pack has Pixelmon) It is actually part of the core. It supports multiple addons including apricorn trees, gameshark, plantable apricorns pixelmon info and wondertrade. Also meltan is 64 block chance with 0.4 chance of a ditto. Starters start at 15 with a x4 exp boost and all lures last a lot longer. (1.12.2)
 
+![](https://i.imgur.com/b8OArlU.png) **Quests** = We have started adding quest lines. As we feel we should we will add more and more. (1.12.2)
+
 ![](https://i.imgur.com/b8OArlU.png) **Renewable Resources** = My packs all have something very wonderful in common you don't always need to travel the universe to find what you are looking for. Just get 4 of any item in most cases and a lot of Infernium. (1.12.2 and 1.16.5)
 
 ![](https://i.imgur.com/b8OArlU.png) **Scaling Difficulty** = As you play the game it will both get easier and harder. Difficulty is very dynamic. Watch out for champions they each also pack their own kind of punch. (1.12.2 and 1.16.5)
 
 ![](https://i.imgur.com/b8OArlU.png) **Semi-Realistic** = Eat foods gain health. Eat the same food too much and gain nothing. (1.12.2)
+
+![](https://i.imgur.com/b8OArlU.png) **Shops** = We have created an ingame shop for buying many different things and the inventory as we see fit is slowly growing. (1.12.2)
 
 ![](https://i.imgur.com/b8OArlU.png) **Technological** = This modpack is chalked full of wonderful tech mods. (1.12.2 and 1.16.5)
 
