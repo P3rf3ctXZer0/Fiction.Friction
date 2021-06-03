@@ -57,7 +57,7 @@
 
 ![](https://i.imgur.com/b8OArlU.png) **Land Claim** = Claim up to 2000 chunks or have 2000 chunks loaded when you are online only. (1.12.2 and 1.16.5)
 
-![](https://i.imgur.com/b8OArlU.png) **Large Scale Batteries** = Through the power of Extreme Reactors you can create rf very quickly.
+![](https://i.imgur.com/b8OArlU.png) **Large Scale Batteries** = Through the power of Extreme Reactors you can create rf very quickly. (1.12.2 and 1.16.5)
 
 ![](https://i.imgur.com/b8OArlU.png) **Limited Only by Your Imagination** = I am going to do what I can to make this a truly sandbox experience. I can't promise you can do anything but I can promise as along as you have a clear goal you should be able to reach it. If I missed something important suggest it. (1.12.2 and 1.16.5)
 
