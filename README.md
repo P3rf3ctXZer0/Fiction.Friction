@@ -1,3 +1,11 @@
+IT IS SAFE TO USE CURSE LAUNCHER - I WILL CHANGE MY THOUGHTS IF IT FAILS
+
+I recommend 8GB
+
+Use Aikars Flags
+
+-XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:InitiatingHeapOccupancyPercent=15 -Dusing.aikars.flags=https://mcflags.emc.gs -Daikars.new.flags=true
+
 
 ![Fiction Friction](https://i.imgur.com/0yJBr1V.png)
 
@@ -11,7 +19,21 @@
 
 *I would like to say thank you to all the skilled coders that allowed this to even be possible. Thank you so much. As a reminder I do not own a single mod as I am unable to code due to mental challenges with mathmatical processing.*
 
-Actively Supporting Development (1.12.2)
+Actively Supporting Development (1.12.2, 1.18.2 )
+
+IF CURSE IS SLOW COMPARED TO SERVER UPDATE GET INSTANT SUPPORT THROUGH DROPBOX
+
+EXAMPLE ![EXAMPLE](https://i.imgur.com/ntnithw.png "EXAMPLE")
+
+How to Import Modpacks = https://youtu.be/KDHGUa6sWxE
+
+Current Version 1.12.2 - 86.0.0-x-x
+
+1.12.2 - [https://www.dropbox.com/sh/wwar3tbtt65kocb/AADh4ZzjqMGgBYLP3GqsUnI4a?dl=0](https://www.dropbox.com/sh/wwar3tbtt65kocb/AADh4ZzjqMGgBYLP3GqsUnI4a?dl=0 "Minecraft 1.12.2 Alternative Download")
+
+Current Version 1.18.2 - N/A
+
+1.18.2 - OOD [https://www.dropbox.com/sh/46z1tcfsuapihfu/AABI_ye-K_zK9oPk7k3o-ttTa?dl=0](https://www.dropbox.com/sh/46z1tcfsuapihfu/AABI_ye-K_zK9oPk7k3o-ttTa?dl=0 "Minecraft 1.18.1 Alternative Downloads")
 
 ![Bisect Hosting](https://media.discordapp.net/attachments/701616152266407998/779578734087766016/vertical_dark_text.png?width=1442&height=469 "Bisect Hosting")
 
