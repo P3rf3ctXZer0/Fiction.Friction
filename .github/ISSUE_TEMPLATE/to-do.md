@@ -4,6 +4,8 @@ about: A thing I need to do
 title: To-Do - "WhatdoIneedtotakecareof"
 labels: enhancement
 assignees: P3rf3ctXZer0
+pack variant:
+pack version:
 
 ---
 
