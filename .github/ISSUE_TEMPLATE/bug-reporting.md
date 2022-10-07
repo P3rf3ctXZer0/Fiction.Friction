@@ -11,6 +11,10 @@ pack version:
 
 Warning; if you do not provide me the information I request I will simply delete the issue. Not reading this does not excuse you.
 
+##### Important Information
+> pack variant:
+> pack version:
+
 > Problem and ways to produce it
 
 
