@@ -9,8 +9,8 @@ assignees: P3rf3ctXZer0
 ---
 
 ##### Important Information
-> pack variant:
-> pack version:
+> Forge version:
+> Pack version:
 
 > **Reason for the mod**
 
