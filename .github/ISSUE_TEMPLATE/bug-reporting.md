@@ -4,7 +4,7 @@ about: Describe in the most detail possible a bug or an issue.
 title: Bug - "DescriptionofBugorIssue"
 labels: bug
 assignees: P3rf3ctXZer0
-pack variant:
+forge version:
 pack version:
 
 ---
@@ -19,7 +19,7 @@ Warning; if you do not provide me the information I request I will simply delete
 
 
 
-> log.txt and crash.txt if it applies
+> latest.log and crash.log if it applies
 
 
 
