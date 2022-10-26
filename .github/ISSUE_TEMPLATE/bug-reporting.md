@@ -14,7 +14,7 @@ Warning; if you do not provide me the information I request I will simply delete
 ##### Important Information
 > Forge Version:
 
-> Pack version:
+> Pack Version:
 
 > Problem and ways to produce it
 
