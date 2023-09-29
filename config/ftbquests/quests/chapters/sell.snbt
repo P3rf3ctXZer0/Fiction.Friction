@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "sell"
+	group: "4E0E33C35417CCC4"
+	id: "6047BC93723BCF83"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+	title: "Sell"
+}

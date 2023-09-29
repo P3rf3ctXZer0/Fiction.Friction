@@ -1,0 +1,17 @@
+{
+  "minecraft:block.wooden_door.open": 0.20558375634517767,
+  "minecraft:entity.wandering_trader.hurt": 0.0,
+  "minecraft:entity.wandering_trader.trade": 0.0,
+  "minecraft:entity.wandering_trader.reappeared": 0.0,
+  "minecraft:block.portal.ambient": 0.0,
+  "minecraft:entity.wandering_trader.ambient": 0.0,
+  "minecraft:block.wooden_door.close": 0.20304568527918782,
+  "minecraft:entity.llama.ambient": 0.0,
+  "minecraft:entity.llama.step": 0.0,
+  "minecraft:entity.zombified_piglin.ambient": 0.0,
+  "minecraft:entity.wandering_trader.drink_potion": 0.0,
+  "minecraft:entity.wandering_trader.disappeared": 0.0,
+  "minecraft:entity.wandering_trader.drink_milk": 0.0,
+  "minecraft:entity.wandering_trader.death": 0.0,
+  "minecraft:entity.wandering_trader.no": 0.0
+}

@@ -1,0 +1,7 @@
+#Should cannibalism be enabled?
+enableCannibalism = true
+#Should player drop flesh on death?
+playerDropFlesh = true
+#Should player drop flesh when shifting and right clicking with a knife?
+knifeDropFlesh = true
+

@@ -1,0 +1,1007 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "starter_drops"
+	group: "4E0E33C35417CCC4"
+	id: "63D9DC236874A039"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["To get started have a few pots for planting in your house."]
+			icon: "botanypots:terracotta_hopper_botany_pot"
+			id: "48C58B993EC7E3AE"
+			rewards: [{
+				count: 7
+				id: "2A5339243051B90B"
+				item: "botanypots:terracotta_hopper_botany_pot"
+				type: "item"
+			}]
+			subtitle: "Setup a Simple Garden"
+			tasks: [{
+				id: "37B5BD26192C9EC4"
+				type: "checkmark"
+			}]
+			title: "Some botany pots for new players"
+			x: 1.0d
+			y: -0.5d
+		}
+		{
+			description: ["Here is a few things to help you on your exciting Pokémon journey!"]
+			icon: "cobblemon:poke_ball"
+			id: "3434CBC72D5AA681"
+			rewards: [
+				{
+					id: "615B1710C7F7C00F"
+					item: "cobblemon:healing_machine"
+					type: "item"
+				}
+				{
+					count: 20
+					id: "07E474DA5EF1DAA1"
+					item: "cobblemon:poke_ball"
+					type: "item"
+				}
+				{
+					id: "78E6642855EC7A05"
+					item: "cobblemon:exp_share"
+					type: "item"
+				}
+				{
+					id: "29B8D9B4D7024662"
+					item: "cobblemon:pc"
+					type: "item"
+				}
+				{
+					id: "5910CAC2751805E0"
+					item: "apricornbushescobblemon:red_apricorn_bush_seed"
+					type: "item"
+				}
+				{
+					id: "1B33A7F24EABC9AB"
+					item: "apricornbushescobblemon:black_apricorn_bush_seed"
+					type: "item"
+				}
+				{
+					id: "5506B32C783E78CD"
+					item: "apricornbushescobblemon:blue_apricorn_bush_seed"
+					type: "item"
+				}
+				{
+					id: "1A1728E028579D40"
+					item: "apricornbushescobblemon:green_apricorn_bush_seed"
+					type: "item"
+				}
+				{
+					id: "1228507369449A53"
+					item: "apricornbushescobblemon:pink_apricorn_bush_seed"
+					type: "item"
+				}
+				{
+					id: "0B65FD8C0220E6AC"
+					item: "apricornbushescobblemon:white_apricorn_bush_seed"
+					type: "item"
+				}
+				{
+					id: "26EA213528D27E84"
+					item: "apricornbushescobblemon:yellow_apricorn_bush_seed"
+					type: "item"
+				}
+				{
+					id: "7D959FDD5185D12A"
+					item: "cobblemon:red_apricorn_seed"
+					type: "item"
+				}
+				{
+					id: "4A043B6C1B37B636"
+					item: "cobblemon:yellow_apricorn_seed"
+					type: "item"
+				}
+				{
+					id: "69CFD8EDADFCBB27"
+					item: "cobblemon:green_apricorn_seed"
+					type: "item"
+				}
+				{
+					id: "4903640A8A8C9A22"
+					item: "cobblemon:blue_apricorn_seed"
+					type: "item"
+				}
+				{
+					id: "020EED410C8966D4"
+					item: "cobblemon:pink_apricorn_seed"
+					type: "item"
+				}
+				{
+					id: "7A4ACDB17F52A159"
+					item: "cobblemon:white_apricorn_seed"
+					type: "item"
+				}
+				{
+					id: "1361DE5B61EF0EF8"
+					item: "cobblemon:black_apricorn_seed"
+					type: "item"
+				}
+			]
+			subtitle: "Welcome to Cobblemon!"
+			tasks: [{
+				id: "65FA53BF7857B7E0"
+				title: "Lets get started!"
+				type: "checkmark"
+			}]
+			title: "Some things to help new players get started with Cobblemon."
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			icon: {
+				Count: 1b
+				id: "silentgear:paxel"
+				tag: {
+					Damage: 0
+					SGear_Data: {
+						Construction: {
+							Parts: [
+								{
+									ID: "silentgear:paxel_head"
+									Item: {
+										Count: 1b
+										id: "silentgear:paxel_head"
+										tag: {
+											Damage: 0
+											Materials: [{
+												ID: "silentgear:iron"
+											}]
+										}
+									}
+								}
+								{
+									ID: "silentgear:rod"
+									Item: {
+										Count: 1b
+										id: "silentgear:rod"
+										tag: {
+											Materials: [{
+												ID: "silentgear:wood"
+											}]
+										}
+									}
+								}
+							]
+						}
+						Properties: {
+							LockStats: 0b
+							ModVersion: "3.2.6"
+							Stats: {
+								"silentgear:attack_reach": 3.0f
+								"silentgear:attack_speed": -3.0f
+								"silentgear:charging_value": 0.7f
+								"silentgear:durability": 337.5f
+								"silentgear:enchantment_value": 9.799999f
+								"silentgear:harvest_level": 2.0f
+								"silentgear:harvest_speed": 4.8f
+								"silentgear:magic_damage": 1.0f
+								"silentgear:melee_damage": 5.0f
+								"silentgear:rarity": 20.0f
+								"silentgear:repair_efficiency": 1.2f
+							}
+							Traits: [
+								{
+									Level: 3b
+									Name: "silentgear:malleable"
+								}
+								{
+									Level: 1b
+									Name: "silentgear:magnetic"
+								}
+								{
+									Level: 2b
+									Name: "silentgear:flexible"
+								}
+							]
+						}
+						Rendering: {
+							Model: 3
+							ModelKey: "paxel:paxel_head{iron},rod{wood},"
+						}
+					}
+					SGear_UUID: [I;
+						-1571002986
+						-476559384
+						-1272560920
+						-123040386
+					]
+					Unbreakable: 1b
+				}
+			}
+			id: "6EEE8B080EAF8795"
+			rewards: [{
+				id: "74BEED4A53AF57C4"
+				item: {
+					Count: 1b
+					id: "silentgear:paxel"
+					tag: {
+						Damage: 0
+						SGear_Data: {
+							Construction: {
+								Parts: [
+									{
+										ID: "silentgear:paxel_head"
+										Item: {
+											Count: 1b
+											id: "silentgear:paxel_head"
+											tag: {
+												Damage: 0
+												Materials: [{
+													ID: "silentgear:iron"
+												}]
+											}
+										}
+									}
+									{
+										ID: "silentgear:rod"
+										Item: {
+											Count: 1b
+											id: "silentgear:rod"
+											tag: {
+												Materials: [{
+													ID: "silentgear:wood"
+												}]
+											}
+										}
+									}
+								]
+							}
+							Properties: {
+								LockStats: 0b
+								ModVersion: "3.2.6"
+								Stats: {
+									"silentgear:attack_reach": 3.0f
+									"silentgear:attack_speed": -3.0f
+									"silentgear:charging_value": 0.7f
+									"silentgear:durability": 337.5f
+									"silentgear:enchantment_value": 9.799999f
+									"silentgear:harvest_level": 2.0f
+									"silentgear:harvest_speed": 4.8f
+									"silentgear:magic_damage": 1.0f
+									"silentgear:melee_damage": 5.0f
+									"silentgear:rarity": 20.0f
+									"silentgear:repair_efficiency": 1.2f
+								}
+								Traits: [
+									{
+										Level: 3b
+										Name: "silentgear:malleable"
+									}
+									{
+										Level: 1b
+										Name: "silentgear:magnetic"
+									}
+									{
+										Level: 2b
+										Name: "silentgear:flexible"
+									}
+								]
+							}
+							Rendering: {
+								Model: 3
+								ModelKey: "paxel:paxel_head{iron},rod{wood},"
+							}
+						}
+						SGear_UUID: [I;
+							-1571002986
+							-476559384
+							-1272560920
+							-123040386
+						]
+						Unbreakable: 1b
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "59568B7AA0654027"
+				type: "checkmark"
+			}]
+			title: "Get a free Paxel"
+			x: 0.5d
+			y: -1.5d
+		}
+		{
+			icon: "warppads:warp_pad"
+			id: "1081A92C2CC79951"
+			rewards: [{
+				count: 5
+				id: "63B4D8440BEE62B8"
+				item: "warppads:warp_pad"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0D1A82FB3D74FFAC"
+				type: "checkmark"
+			}]
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			icon: "minecraft:wheat_seeds"
+			id: "0556C055664D157D"
+			rewards: [
+				{
+					id: "58F71D8663E5C10E"
+					item: "supplementaries:flax_seeds"
+					type: "item"
+				}
+				{
+					id: "670E2347A8540C16"
+					item: "minecraft:wheat_seeds"
+					type: "item"
+				}
+				{
+					id: "2A4A695F66E302EA"
+					item: "minecraft:oak_sapling"
+					type: "item"
+				}
+				{
+					id: "124E832155849B45"
+					item: "minecraft:spruce_sapling"
+					type: "item"
+				}
+				{
+					id: "5612867B0862E02C"
+					item: "minecraft:birch_sapling"
+					type: "item"
+				}
+				{
+					id: "565DDF491E3527F0"
+					item: "minecraft:jungle_sapling"
+					type: "item"
+				}
+				{
+					id: "41CA6F237D7469DF"
+					item: "minecraft:acacia_sapling"
+					type: "item"
+				}
+				{
+					id: "0C192317D1B69D11"
+					item: "minecraft:dark_oak_sapling"
+					type: "item"
+				}
+				{
+					id: "13737EDF666C4138"
+					item: "quark:blue_blossom_sapling"
+					type: "item"
+				}
+				{
+					id: "6326C388F9F829E5"
+					item: "quark:lavender_blossom_sapling"
+					type: "item"
+				}
+				{
+					id: "10EA18DAD05DABF4"
+					item: "quark:orange_blossom_sapling"
+					type: "item"
+				}
+				{
+					id: "5C6E95F86533A702"
+					item: "quark:pink_blossom_sapling"
+					type: "item"
+				}
+				{
+					id: "2BD5DC8B55CDD542"
+					item: "quark:yellow_blossom_sapling"
+					type: "item"
+				}
+				{
+					id: "31530495B3C9166F"
+					item: "quark:red_blossom_sapling"
+					type: "item"
+				}
+				{
+					id: "5DD24B77DFA0A154"
+					item: "biomesoplenty:pink_cherry_sapling"
+					type: "item"
+				}
+				{
+					id: "205C3FA8609A5F75"
+					item: "biomesoplenty:white_cherry_sapling"
+					type: "item"
+				}
+				{
+					id: "7D89B8298A811ED4"
+					item: "pizzacraft:olive_sapling"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4BD14B968170A116"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			icon: "nomadictents:mega_bedouin"
+			id: "5991EB291617B826"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5D3EDA8B89A0FA20"
+					table_id: 2094514531926978098L
+					type: "choice"
+				}
+				{
+					id: "6FAD8747FF856240"
+					item: {
+						Count: 1b
+						id: "nomadictents:golden_mallet"
+						tag: {
+							Damage: 0
+							Unbreakable: 1b
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3D731EB0FF4613AA"
+				type: "checkmark"
+			}]
+			title: "Choice Tent"
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			icon: "mysticalagriculture:inferium_essence"
+			id: "5165C04CA52D7E2C"
+			rewards: [
+				{
+					id: "411E44595A111C00"
+					item: "mysticalagriculture:stone_seeds"
+					type: "item"
+				}
+				{
+					id: "76FC1301690BD2B2"
+					item: "mysticalagriculture:dye_seeds"
+					type: "item"
+				}
+				{
+					id: "378FA92F8EB76FBC"
+					item: "mysticalagriculture:coal_seeds"
+					type: "item"
+				}
+				{
+					id: "22BEAF360AF357FA"
+					item: "mysticalagriculture:fire_seeds"
+					type: "item"
+				}
+				{
+					id: "62DCFC3DF5BDCB70"
+					item: "mysticalagriculture:water_seeds"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "49CC2D8BBB6A7378"
+					item: "mysticalagriculture:inferium_farmland"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "3934FE16CF8F45B4"
+					item: "mysticalagriculture:prudentium_farmland"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "10A3A1D378230BCA"
+					item: "mysticalagriculture:tertium_farmland"
+					type: "item"
+				}
+				{
+					id: "0ED5E24740A452B5"
+					item: "mysticalagriculture:enderman_seeds"
+					type: "item"
+				}
+				{
+					id: "37CCA23F9C12A782"
+					item: "mysticalagriculture:imperium_farmland"
+					type: "item"
+				}
+				{
+					id: "66DDFFEF2216E097"
+					item: "mysticalagriculture:infusion_altar"
+					type: "item"
+				}
+				{
+					count: 8
+					id: "32911ED090CF3662"
+					item: "mysticalagriculture:infusion_pedestal"
+					type: "item"
+				}
+				{
+					id: "1C1DD353BD18D870"
+					item: "mysticalagriculture:cow_seeds"
+					type: "item"
+				}
+				{
+					id: "7B75720BCCF48D50"
+					item: "mysticalagriculture:end_seeds"
+					type: "item"
+				}
+				{
+					id: "46E5F2F4C12A8EF4"
+					item: "mysticalagriculture:certus_quartz_seeds"
+					type: "item"
+				}
+				{
+					id: "40179A257761796C"
+					item: "mysticalagriculture:slime_seeds"
+					type: "item"
+				}
+				{
+					id: "65A8510817A0F014"
+					item: "mysticalagriculture:master_infusion_crystal"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "393A7EA2C89F1123"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			icon: "minecraft:enchanting_table"
+			id: "4A74305EFE3F9E89"
+			rewards: [
+				{
+					id: "49FC68469E155946"
+					item: "minecraft:enchanting_table"
+					type: "item"
+				}
+				{
+					count: 20
+					id: "792F362980FA2F41"
+					item: "minecraft:book"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2139FE0180C9CCCB"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: -0.5d
+		}
+		{
+			icon: "silentgear:guide_book"
+			id: "62418FFBCB24B9D6"
+			rewards: [
+				{
+					id: "45ECB6E69F19EF89"
+					item: {
+						Count: 1b
+						id: "silentgear:blueprint_book"
+						tag: {
+							Inventory: {
+								Items: [
+									{
+										Count: 1b
+										Slot: 0
+										id: "silentgear:rod_blueprint"
+									}
+									{
+										Count: 1b
+										Slot: 1
+										id: "silentgear:tip_blueprint"
+									}
+									{
+										Count: 1b
+										Slot: 2
+										id: "silentgear:coating_blueprint"
+									}
+									{
+										Count: 1b
+										Slot: 3
+										id: "silentgear:grip_blueprint"
+									}
+									{
+										Count: 1b
+										Slot: 4
+										id: "silentgear:binding_blueprint"
+									}
+									{
+										Count: 1b
+										Slot: 5
+										id: "silentgear:sword_blueprint"
+									}
+									{
+										Count: 1b
+										Slot: 6
+										id: "silentgear:fletching_blueprint"
+									}
+									{
+										Count: 1b
+										Slot: 7
+										id: "silentgear:lining_blueprint"
+									}
+									{
+										Count: 1b
+										Slot: 8
+										id: "silentgear:cord_blueprint"
+									}
+									{
+										Count: 1b
+										Slot: 9
+										id: "silentgear:katana_blueprint"
+									}
+									{
+										Count: 1b
+										Slot: 10
+										id: "silentgear:machete_blueprint"
+									}
+									{
+										Count: 1b
+										Slot: 11
+										id: "silentgear:spear_blueprint"
+									}
+									{
+										Count: 1b
+										Slot: 12
+										id: "silentgear:trident_blueprint"
+									}
+									{
+										Count: 1b
+										Slot: 13
+										id: "silentgear:prospector_hammer_blueprint"
+									}
+									{
+										Count: 1b
+										Slot: 14
+										id: "silentgear:mattock_blueprint"
+									}
+									{
+										Count: 1b
+										Slot: 15
+										id: "silentgear:hoe_blueprint"
+									}
+									{
+										Count: 1b
+										Slot: 16
+										id: "silentgear:saw_blueprint"
+									}
+									{
+										Count: 1b
+										Slot: 17
+										id: "silentgear:excavator_blueprint"
+									}
+									{
+										Count: 1b
+										Slot: 18
+										id: "silentgear:hammer_blueprint"
+									}
+									{
+										Count: 1b
+										Slot: 19
+										id: "silentgear:paxel_blueprint"
+									}
+									{
+										Count: 1b
+										Slot: 20
+										id: "silentgear:axe_blueprint"
+									}
+									{
+										Count: 1b
+										Slot: 21
+										id: "silentgear:shovel_blueprint"
+									}
+									{
+										Count: 1b
+										Slot: 22
+										id: "silentgear:pickaxe_blueprint"
+									}
+									{
+										Count: 1b
+										Slot: 23
+										id: "silentgear:dagger_blueprint"
+									}
+									{
+										Count: 1b
+										Slot: 24
+										id: "silentgear:knife_blueprint"
+									}
+									{
+										Count: 1b
+										Slot: 25
+										id: "silentgear:sickle_blueprint"
+									}
+									{
+										Count: 1b
+										Slot: 26
+										id: "silentgear:shears_blueprint"
+									}
+									{
+										Count: 1b
+										Slot: 27
+										id: "silentgear:fishing_rod_blueprint"
+									}
+									{
+										Count: 1b
+										Slot: 28
+										id: "silentgear:bow_blueprint"
+									}
+									{
+										Count: 1b
+										Slot: 29
+										id: "silentgear:crossbow_blueprint"
+									}
+									{
+										Count: 1b
+										Slot: 30
+										id: "silentgear:slingshot_blueprint"
+									}
+									{
+										Count: 1b
+										Slot: 31
+										id: "silentgear:shield_blueprint"
+									}
+									{
+										Count: 1b
+										Slot: 32
+										id: "silentgear:helmet_blueprint"
+									}
+									{
+										Count: 1b
+										Slot: 33
+										id: "silentgear:chestplate_blueprint"
+									}
+									{
+										Count: 1b
+										Slot: 34
+										id: "silentgear:leggings_blueprint"
+									}
+									{
+										Count: 1b
+										Slot: 35
+										id: "silentgear:boots_blueprint"
+									}
+									{
+										Count: 1b
+										Slot: 36
+										id: "silentgear:elytra_blueprint"
+									}
+									{
+										Count: 1b
+										Slot: 37
+										id: "silentgear:arrow_blueprint"
+									}
+									{
+										Count: 1b
+										Slot: 38
+										id: "silentgear:ring_blueprint"
+									}
+									{
+										Count: 1b
+										Slot: 39
+										id: "silentgear:bracelet_blueprint"
+									}
+								]
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "34AE89B9C8FA0069"
+					item: "silentgear:guide_book"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2380CA78BED5B6CF"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: -2.5d
+		}
+		{
+			icon: "ae2:sky_stone_block"
+			id: "365CFFDC6482BD89"
+			rewards: [
+				{
+					count: 4
+					id: "5E08AF7D16CF9C49"
+					item: "minecraft:amethyst_shard"
+					type: "item"
+				}
+				{
+					id: "06FB0279BC4B6FAC"
+					item: "ae2:logic_processor_press"
+					type: "item"
+				}
+				{
+					id: "6AA5D5045F74FBCD"
+					item: "ae2:silicon_press"
+					type: "item"
+				}
+				{
+					id: "5EBB08930E0144E8"
+					item: "ae2:calculation_processor_press"
+					type: "item"
+				}
+				{
+					count: 12
+					id: "41D0CB573B30EDAC"
+					item: "ae2:certus_quartz_crystal"
+					type: "item"
+				}
+				{
+					count: 9
+					id: "761C5D1ACDD39E4B"
+					item: "ae2:quartz_block"
+					type: "item"
+				}
+				{
+					id: "57D7ED97619DC125"
+					item: "ae2:engineering_processor_press"
+					type: "item"
+				}
+				{
+					count: 218
+					id: "7042F5D27053B573"
+					item: "ae2:sky_stone_block"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5EF7B4A0DB3A482C"
+				type: "checkmark"
+			}]
+			x: 2.5d
+			y: -1.5d
+		}
+		{
+			icon: "mysticalagriculture:nature_seeds"
+			id: "2B23EDF207FBD229"
+			rewards: [
+				{
+					id: "437F02EFD0381248"
+					item: "mysticalagriculture:nature_seeds"
+					type: "item"
+				}
+				{
+					id: "725822F9C11F195F"
+					item: "mysticalagriculture:experience_seeds"
+					type: "item"
+				}
+				{
+					id: "30E34F6F7CC64361"
+					item: "mysticalagriculture:wood_seeds"
+					type: "item"
+				}
+				{
+					count: 20
+					id: "426E2C6515ECD0C4"
+					item: "mysticalagradditions:insanium_farmland"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "03197F9BC7558FE5"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: -2.5d
+		}
+		{
+			icon: "iammusicplayer:boombox"
+			id: "6A23702856C53979"
+			rewards: [
+				{
+					id: "703831C6D0C1A26F"
+					item: {
+						Count: 1b
+						id: "iammusicplayer:boombox"
+						tag: {
+							BoomboxItems: {
+								Items: [{
+									Count: 1b
+									Slot: 1b
+									id: "iammusicplayer:parabolic_antenna"
+								}]
+							}
+							BoomboxTag: {
+								BoomBoxData: {
+									AntennaProgress: 0
+									AntennaProgressOld: 0
+									ChangeCassetteTape: 0b
+									ContinuousType: "none"
+									HandleRaisedProgress: 10
+									HandleRaisedProgressOld: 10
+									HandleRaising: 1b
+									LastMonitorType: "off"
+									LidOpen: 0b
+									LidOpenProgress: 0
+									LidOpenProgressOld: 0
+									LoadingMusic: 0b
+									Loop: 0b
+									MonitorType: "off"
+									Mute: 0b
+									NoChangeCassetteTape: 0b
+									OldCassetteTape: {
+										Count: 0b
+										id: "minecraft:air"
+										tag: { }
+									}
+									OldCassetteTapeFlg: 0b
+									ParabolicAntennaProgress: 11432
+									ParabolicAntennaProgressOld: 11432
+									PlayerSelectPlaylists: {
+										k: [ ]
+										v: [ ]
+									}
+									Playing: 0b
+									RadioAuthor: ""
+									RadioImage: {
+										Identifier: ""
+										ImageType: "empty"
+									}
+									RadioName: ""
+									RadioSource: {
+										Duration: 0L
+										Identifier: ""
+										LoaderType: ""
+									}
+									RadioStartFlg: 0b
+									RadioUrl: ""
+									RingerPosition: 0L
+									Volume: 150
+								}
+								Identification: [I;
+									1625764845
+									198658513
+									-1800404246
+									-1006518579
+								]
+								Power: 0b
+								Transfer: 0
+								TransferOld: 0
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6362EF25E371453F"
+					item: "waterframes:frame"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "34215DBA69B45E7E"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: -0.5d
+		}
+		{
+			icon: "mekaevolution:infinite_logistical_transporter"
+			id: "3F5567C55369CC6D"
+			rewards: [{
+				count: 9999
+				id: "00EACAC988C57067"
+				item: "mekaevolution:infinite_logistical_transporter"
+				type: "item"
+			}]
+			tasks: [{
+				id: "329B1AD701E5AACB"
+				type: "checkmark"
+			}]
+			x: 3.5d
+			y: -1.5d
+		}
+	]
+	title: "Starter Drops"
+}
