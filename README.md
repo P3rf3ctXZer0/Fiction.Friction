@@ -1,1 +1,1 @@
-#There is no code in this repository its just for bug tracking.
+#This is a place for people to get the fiction friction modpack stable branch for people with low bandwidth
