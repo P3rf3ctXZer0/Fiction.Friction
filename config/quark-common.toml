@@ -49,7 +49,7 @@
 	Management = true
 	Tools = true
 	Tweaks = true
-	World = true
+	World = false
 	Mobs = true
 	Client = true
 	Experimental = true

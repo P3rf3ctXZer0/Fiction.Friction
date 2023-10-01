@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:bow",
+    "the_bumblezone:crystal_cannon",
+    "apotheosis:bow_tome",
+    "$minecraft:crossbow"
+  ],
+  "incompatible": []
+}

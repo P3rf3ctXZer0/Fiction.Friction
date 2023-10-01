@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:digger",
+    "minecraft:shears",
+    "the_bumblezone:carpenter_bee_boots_1",
+    "the_bumblezone:carpenter_bee_boots_2",
+    "silentgear:shears",
+    "thermal:flux_drill",
+    "thermal:flux_saw",
+    "pickletweaks:flint_shears",
+    "apotheosis:pickaxe_tome",
+    "mysticalagriculture:inferium_shears",
+    "mysticalagriculture:prudentium_shears",
+    "mysticalagriculture:tertium_shears",
+    "mysticalagriculture:imperium_shears",
+    "mysticalagriculture:supremium_shears",
+    "mysticalagriculture:awakened_supremium_shears",
+    "quark:pickarang",
+    "quark:flamerang",
+    "quark:echorang"
+  ],
+  "incompatible": [
+    "minecraft:silk_touch"
+  ]
+}
