@@ -10,7 +10,7 @@
 	can_helmet_break = false
 	#Defines how much ticks are between food checks. 20 ticks = 1 second
 	#Range: 1 ~ 200
-	feed_ticks = 20
+	feed_ticks = 100
 	#Should the helmet wait until the food can be eaten completely, without any hunger loss by early eating?
 	hungry_enough_wait = true
 	#Should the 'hungry_enough_wait' option be ignored when the player is low on hearts? (less or equal 50%)
