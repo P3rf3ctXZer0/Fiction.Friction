@@ -31,23 +31,24 @@ Pack Features of 1.20.1-FFCM-X.X.X-rc04
 * Commonly Used Commands (Sethome-TPA-Warp) thanks to "FTB Essentials"
 * Custom Jukeboxes - thanks to "Iam Music Player and Water Media Frames"
 * Custom Pictures - Thanks to "Water Media Frames" (Warning posting illegal content or content that is not safe for minors will get you banned.)
-* In-game Tutorials - (In Progress) - Get tips and tricks on the content in the pack so you don't have to flounder around. Thanks to water frames you can have valid youtube tutorials in game.
-* Keep Inventory True - Don't lose things when you die. (PVP is fine but hunting or base camping is not. Abuse of players won't be tolerated.)
-* Lots of Decor thanks to "Armourers Workshop" "LittleTiles" - "Framed Blocks" - "Handcrafted" - "Macaw Mods+Addons" - "MrCrayfish Furniture + Addons" - "RGB Block Colors"
-Huge Storage by Default thanks to "RF Storge" - "Sophisticated Backpacks+Storage"
+* Huge Storage by Default thanks to "RF Storge" - "Sophisticated Backpacks+Storage"
 * Hunger Matters - If you eat you gain perm health for each food once.
+* In-game Tutorials - (In Progress) - Get tips and tricks on the content in the pack so you don't have to flounder around. Thanks to water frames you can have valid youtube tutorials in game.
+* Kart Racing Minigame and Course Creation - Thanks to "Cubic Racers" make stages similar to popular kart racing games.
+* Keep Inventory True - Don't lose things when you die. (PVP is fine but hunting or base camping is not. Abuse of players won't be tolerated.)
 * Land Claim and Teams thanks to FTB Team. 
 * Levels Matter - Kingdom Hearts
+* Lots of Decor thanks to "Armourers Workshop" "LittleTiles" - "Framed Blocks" - "Handcrafted" - "Macaw Mods+Addons" - "MrCrayfish Furniture + Addons" - "RGB Block Colors"
 * Magic Mods - Thanks to "Kingdom Keys 2+Addons" you can cast cool spells and devastating attacks.
 * Many Different Biomes thanks to "Biomes o' Plenty" - "Regions UnExplored"
 * Many Different Mobs thanks to "Aquaculture 2" - "Hostile Mobs and Girls+Addons"
-Minimap and Waypoints thanks to "Journeymap"
+* Minimap and Waypoints thanks to "Journeymap"
 * Optimizations Galore - Core focus is FPS and TPS + Content
-Pokémon from pretty much the entire series including legendaries.
+* Pokémon from pretty much the entire series including legendaries.
 * Pokémon thanks to the power of Cobblemon https://cobblemon.com/ and QLAPS and Cardboard Cutout Mon
 * Quality of Life mods - Recipes for Bells easy cobweb destruction and sponges.
 * Quests (In Progress) thanks to FTB Team (Eternally Work in Progress have some early start gear though.)
 * Technology - "Applied Energistics + Some Addons" - "Extreme Reactors" - "Industrial Foregoing" - "Mekanism + Most Addons" - "RFSeries + All Addons"
 * Unique Mods - Minecolonies and more!
 
-Updated
+Always considering more features!
